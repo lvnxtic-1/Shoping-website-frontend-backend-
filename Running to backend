@@ -1,0 +1,4 @@
+pip install -r requirements.txt
+python app.py
+
+This will start your API server at http://localhost:5000.
