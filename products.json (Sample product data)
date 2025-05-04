@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Gaming Mouse",
+    "price": 799,
+    "image": "https://via.placeholder.com/200x150?text=Gaming+Mouse"
+  },
+  {
+    "id": 2,
+    "name": "Gaming Keyboard",
+    "price": 1499,
+    "image": "https://via.placeholder.com/200x150?text=Gaming+Keyboard"
+  }
+]
